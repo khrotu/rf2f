@@ -1,0 +1,8 @@
+/target/*
+!/target/release/
+/target/release/*
+!/target/release/rf2f.exe
+/_reference
+*.pdb
+scripts/
+tests/

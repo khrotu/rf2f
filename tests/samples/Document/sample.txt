@@ -1,0 +1,2 @@
+Hello rf2f document conversion test.
+Line 2 text.

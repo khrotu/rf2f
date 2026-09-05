@@ -1,0 +1,6 @@
+- id: 1
+  name: Document A
+  status: active
+- id: 2
+  name: Document B
+  status: pending

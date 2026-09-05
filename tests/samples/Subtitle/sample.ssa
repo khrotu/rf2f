@@ -1,0 +1,5 @@
+[Script Info]
+Title: Test
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:01.00,0:00:04.00,Default,,0,0,0,,Hello subtitle world.
